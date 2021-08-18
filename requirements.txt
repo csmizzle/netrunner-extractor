@@ -1,0 +1,7 @@
+pandas
+spacy
+tqdm
+nltk
+pdfminer.six
+openpyxl
+python-docx
